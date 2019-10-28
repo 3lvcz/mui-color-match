@@ -1,0 +1,9 @@
+{
+  "name": "mui-color-match",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^14.2.0"
+  }
+}
