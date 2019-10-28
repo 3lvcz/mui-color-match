@@ -3,6 +3,9 @@
   "version": "1.0.1",
   "bin": "bin/index.js",
   "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
