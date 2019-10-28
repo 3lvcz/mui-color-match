@@ -4,6 +4,10 @@
   "bin": "bin/index.js",
   "main": "lib/index.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/3lvcz/mui-color-match"
+  },
   "dependencies": {
     "yargs": "^14.2.0"
   }
