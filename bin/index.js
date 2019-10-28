@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { closest } = require('../lib');
 
 require('yargs')
